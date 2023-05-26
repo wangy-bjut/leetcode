@@ -5,7 +5,10 @@ using namespace std;
 class Solution
 {
 public:
-        unordered_map<
+        void num(vector<int> &nums)
+        {
+                return ;
+        }
 
 
 
