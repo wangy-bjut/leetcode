@@ -251,6 +251,8 @@ int main()
    // res1 = A.select(vec);
     int l =0,r = vec.size();
     A.process1(vec,l,r);
+
+    A.insert(vec);
   
 
 
